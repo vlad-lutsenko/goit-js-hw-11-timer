@@ -9,7 +9,7 @@ class CountdownTimer {
   }
 
   renderLayout(root) {
-    const layout = `<h1>до старту ЄВРО2020 залишилось</h1>
+    const layout = ` <h1 class="title">до старту ЄВРО2020 залишилось</h1>
     <div class="timer" id="timer-1">
     <div class="field">
       <span class="value" data-value="days">11</span>
